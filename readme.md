@@ -34,6 +34,7 @@ Server will run on:
 
 ## 📂 Folder Structure
 
+```
 job-application-portal/
 │── src/
 │   ├── config/
@@ -69,7 +70,7 @@ job-application-portal/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+```
 
 ## 📌 API Documentation
 
