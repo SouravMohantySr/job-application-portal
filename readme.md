@@ -16,7 +16,7 @@ npm install
 
 Inside the root of your project, create a file named `.env`:
 PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/jobPortal
+MONGO_URI= mogodburl
 JWT_SECRET=your_jwt_secret
 
 
@@ -29,7 +29,7 @@ npm start
 
 
 Server will run on:
-👉 `http://localhost:5000`
+👉 `https://job-application-portal-joet.onrender.com/`
 
 
 ## 📂 Folder Structure
@@ -78,7 +78,7 @@ job-application-portal/
 
 #### 1️⃣ Register User
 
-**POST** http://localhost:5000/api/auth/register
+**POST** https://job-application-portal-joet.onrender.com/api/auth/register
 
 **Request (JSON):**
 
